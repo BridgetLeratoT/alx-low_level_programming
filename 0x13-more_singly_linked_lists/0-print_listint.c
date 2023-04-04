@@ -8,7 +8,7 @@
 *
 **
 *
-** Return: number of nodes
+** number of nodes should br returned
 *
 **/
 

@@ -3,9 +3,9 @@
 #define LISTS_H
 
 
-#include <stdlib.h>
-
 #include <stdio.h>
+
+#include <stdlib.h>
 
 
 /**
@@ -17,9 +17,8 @@
 *
 **
 *
-** singly linked list node structure
-*
-*/
+**singly linked list node structure
+**/
 
 typedef struct listint_s
 
